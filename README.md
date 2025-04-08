@@ -37,7 +37,7 @@ To run tests:
 ```bash
 npm run test
 ```
-
+![Alt text](https://github.com/GarbhitSh/DrainGuardRugpullDetector/blob/main/djb.png)
 ## Example Alert
 ```json
 {
